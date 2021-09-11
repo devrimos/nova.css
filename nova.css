@@ -202,7 +202,7 @@ br, hr, img, button{user-select: none;}
 .w-auto{width: auto;}
 .w-half{width: 50%;}
 .max-w-auto{max-width: auto;}
-.max-w-100{max-width: 100%;}
+.max-w-full{max-width: 100%;}
 .w-100-vw{width: 100vw;}
 .w-50-vw{width: 50vw;}
 .w-25-vw{width: 25vw;}
@@ -416,7 +416,7 @@ br, hr, img, button{user-select: none;}
 .h-auto{height: auto;}
 .h-half{height: 50%;}
 .max-h-auto{max-height: auto;}
-.max-h-100{max-height: 100%;}
+.max-h-full{max-height: 100%;}
 .h-100-vh{height: 100vh;}
 .h-50-vh{height: 50vh;}
 .h-25-vh{height: 25vh;}
