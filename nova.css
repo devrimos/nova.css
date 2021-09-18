@@ -3424,6 +3424,7 @@ br, hr, img, button{user-select: none;}
 .b-color-darkgray, .b-color-lightgrey{border-color: #A9A9A9;}
 .b-color-brown{border-color: #A52A2A;}
 .b-color-darkcharcoal{border-color: #3333;}
+.b-color-bluegray{border-color: #5885AF;}
 .b-top-color-transparent{border-top-color: transparent;}
 .b-top-color-dodgerblue{border-top-color: #1e90ff;}
 .b-top-color-blue{border-top-color: #0000FF;}
@@ -3440,6 +3441,7 @@ br, hr, img, button{user-select: none;}
 .b-top-color-darkgray, .b-top-color-lightgrey{border-top-color: #A9A9A9;}
 .b-top-color-brown{border-top-color: #A52A2A;}
 .b-top-color-darkcharcoal{border-top-color: #3333;}
+.b-top-color-bluegray{border-top-color: #5885AF;}
 .b-bottom-color-transparent{border-bottom-color: transparent;}
 .b-bottom-color-dodgerblue{border-bottom-color: #1e90ff;}
 .b-bottom-color-blue{border-bottom-color: #0000FF;}
@@ -3456,6 +3458,7 @@ br, hr, img, button{user-select: none;}
 .b-bottom-color-darkgray, .b-bottom-color-lightgrey{border-bottom-color: #A9A9A9;}
 .b-bottom-color-brown{border-bottom-color: #A52A2A;}
 .b-bottom-color-darkcharcoal{border-bottom-color: #3333;}
+.b-bottom-color-bluegray{border-bottom-color: #5885AF;}
 .b-left-color-transparent{border-left-color: transparent;}
 .b-left-color-dodgerblue{border-left-color: #1e90ff;}
 .b-left-color-blue{border-left-color: #0000FF;}
@@ -3472,6 +3475,7 @@ br, hr, img, button{user-select: none;}
 .b-left-color-darkgray, .b-left-color-lightgrey{border-left-color: #A9A9A9;}
 .b-left-color-brown{border-left-color: #A52A2A;}
 .b-left-color-darkcharcoal{border-left-color: #3333;}
+.b-left-color-bluegray{border-left-color: #5885AF;}
 .b-right-color-transparent{border-right-color: transparent;}
 .b-right-color-dodgerblue{border-right-color: #1e90ff;}
 .b-right-color-blue{border-right-color: #0000FF;}
@@ -3488,6 +3492,7 @@ br, hr, img, button{user-select: none;}
 .b-right-color-darkgray, .b-right-color-lightgrey{border-right-color: #A9A9A9;}
 .b-right-color-brown{border-right-color: #A52A2A;}
 .b-right-color-darkcharcoal{border-right-color: #3333;}
+.b-right-color-bluegray{border-right-color: #5885AF;}
 /*BORDER COLOR END*/
 /*OUTLINE COLOR*/
 .o-color-transparent{outline-color: transparent;}
