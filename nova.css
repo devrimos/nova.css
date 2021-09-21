@@ -3584,3 +3584,280 @@ br, hr, img, button{user-select: none;}
 .appearance-initial{appearance: initial;}
 .appearance-inherit{appearance: inherit;}
 /*APPEARANCE END*/
+/*HOVER BG-COLOR*/
+.hover-bg-transparent:hover{background-color: transparent;}
+.hover-bg-dodgerblue:hover{background-color: #1e90ff;}
+.hover-bg-blue:hover{background-color: #0000FF;}
+.hover-bg-pink:hover{background-color: #FFB6C1;}
+.hover-bg-yellow:hover{background-color: #FFFF00;}
+.hover-bg-orange:hover{background-color: #FFA500;}
+.hover-bg-green:hover{background-color: #008000;}
+.hover-bg-red:hover{background-color: #FF0000;}
+.hover-bg-gray:hover, .hover-bg-grey:hover{background-color: #808080;}
+.hover-bg-purple:hover{background-color: #800080;}
+.hover-bg-white:hover{background-color: #ffffff;}
+.hover-bg-black:hover{background-color: #000000;}
+.hover-bg-lightgray:hover, .hover-bg-lightgrey:hover{background-color: #D3D3D3;}
+.hover-bg-darkgray:hover, .hover-bg-darkgrey:hover{background-color: #A9A9A9;}
+.hover-bg-brown:hover{background-color: #A52A2A;}
+.hover-bg-orangered:hover{background-color: #FF5349;}
+.hover-bg-babyblue:hover{background-color: #C3E0E5;}
+.hover-bg-darkblue:hover{background-color: #274472;}
+.hover-bg-bluegray:hover{background-color: #5885AF;}
+.hover-bg-midnightblue:hover{background-color: #41729F;}
+.hover-bg-cornflower:hover{background-color: #79A9F5;}
+.hover-bg-bluegrotto:hover{background-color: #4B7BF5;}
+.hover-bg-blueviolet:hover{background-color: #8A2BE2;}
+.hover-bg-skyblue:hover{background-color: #87ceeb;}
+.hover-bg-bluegreen:hover{background-color: #75E6DA;}
+.hover-bg-navyblue:hover{background-color: #05445E;}
+.hover-bg-kellygreen:hover{background-color: #18A558;}
+.hover-bg-neongreen:hover{background-color: #A3EBB1;}
+.hover-bg-spearmint:hover{background-color: #94C973;}
+.hover-bg-limegreen:hover{background-color: #76B947;}
+.hover-bg-teal:hover{background-color: #97BCC7;}
+.hover-bg-darkcharcoal:hover{background-color: #3333;}
+.hover-bg-lightblack:hover{background-color: #333;}
+.hover-bg-aquablue:hover{background-color: #00FFFF;}
+/*HOVER BG-COLOR END*/
+/*HOVER COLOR*/
+.hover-transparent:hover{color: transparent;}
+.hover-dodgerblue:hover{color: #1e90ff;}
+.hover-blue:hover{color: #0000FF;}
+.hover-pink:hover{color: #FFB6C1;}
+.hover-yellow:hover{color: #FFFF00;}
+.hover-orange:hover{color: #FFA500;}
+.hover-green:hover{color: #008000;}
+.hover-red:hover{color: #FF0000;}
+.hover-gray:hover, .hover-grey:hover{color: #808080;}
+.hover-purple:hover{color: #800080;}
+.hover-white:hover{color: #ffffff;}
+.hover-black:hover{color: #000000;}
+.hover-lightgray:hover, .hover-lightgrey:hover{color: #D3D3D3;}
+.hover-darkgray:hover, .hover-darkgrey:hover{color: #A9A9A9;}
+.hover-brown:hover{color: #A52A2A;}
+.hover-orangered:hover{color: #FF5349;}
+.hover-babyblue:hover{color: #C3E0E5;}
+.hover-darkblue:hover{color: #274472;}
+.hover-bluegray:hover{color: #5885AF;}
+.hover-midnightblue:hover{color: #41729F;}
+.hover-cornflower:hover{color: #79A9F5;}
+.hover-bluegrotto:hover{color: #4B7BF5;}
+.hover-blueviolet:hover{color: #8A2BE2;}
+.hover-skyblue:hover{color: #87ceeb;}
+.hover-bluegreen:hover{color: #75E6DA;}
+.hover-navyblue:hover{color: #05445E;}
+.hover-kellygreen:hover{color: #18A558;}
+.hover-neongreen:hover{color: #A3EBB1;}
+.hover-spearmint:hover{color: #94C973;}
+.hover-limegreen:hover{color: #76B947;}
+.hover-teal:hover{color: #97BCC7;}
+.hover-darkcharcoal:hover{color: #3333;}
+.hover-lightblack:hover{color: #333;}
+.hover-aquablue:hover{color: #00FFFF;}
+/*HOVER COLOR END*/
+/*HOVER OPACITY*/
+.hover-opacity-0:hover{opacity: 0;}
+.hover-opacity-01:hover{opacity: 0.1;}
+.hover-opacity-02:hover{opacity: 0.2;}
+.hover-opacity-03:hover{opacity: 0.3;}
+.hover-opacity-04:hover{opacity: 0.4;}
+.hover-opacity-05:hover{opacity: 0.5;}
+.hover-opacity-06:hover{opacity: 0.6;}
+.hover-opacity-07:hover{opacity: 0.7;}
+.hover-opacity-08:hover{opacity: 0.8;}
+.hover-opacity-09:hover{opacity: 0.9;}
+.hover-opacity-1:hover{opacity: 1;}
+/*HOVER OPACITY END*/
+/*HOVER TEXT DECORATION*/
+.hover-decoration-overline:hover{text-decoration: overline;}
+.hover-decoration-none:hover{text-decoration: none;}
+.hover-decoration-line-through:hover{text-decoration: line-through;}
+.hover-decoration-underline:hover{text-decoration: underline;}
+.hover-decoration-underline-overline:hover{text-decoration: underline overline;}
+/*HOVER TEXT DECORATION END*/
+/*HOVER BORDER RADIUS*/
+.hover-radius-0:hover{border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;}
+.hover-radius-1:hover{border-radius: 1px;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    -ms-border-radius: 1px;
+    -o-border-radius: 1px;}
+.hover-radius-2:hover{border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;}
+.hover-radius-3:hover{border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;}
+.hover-radius-4:hover{border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;}
+.hover-radius-5:hover{border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;}
+.hover-radius-10:hover{border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;}
+.hover-radius-15:hover{border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;}
+.hover-radius-20:hover{border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;}
+.hover-radius-25:hover{border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;}
+.hover-radius-30:hover{border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;}
+.hover-radius-35:hover{border-radius: 35px;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    -ms-border-radius: 35px;
+    -o-border-radius: 35px;}
+.hover-radius-40:hover{border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;}
+.hover-radius-45:hover{border-radius: 45px;
+    -webkit-border-radius: 45px;
+    -moz-border-radius: 45px;
+    -ms-border-radius: 45px;
+    -o-border-radius: 45px;}
+.hover-radius-50:hover{border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;}
+.hover-radius-max:hover, .hover-round:hover, .hover-radius-full:hover{border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;}
+/*HOVER BORDER RADIUS END*/
+/*HOVER FONT*/
+.hover-font-0:hover{font-size: 0px;}
+.hover-font-1:hover{font-size: 1px;}
+.hover-font-2:hover{font-size: 2px;}
+.hover-font-3:hover{font-size: 3px;}
+.hover-font-4:hover{font-size: 4px;}
+.hover-font-5:hover{font-size: 5px;}
+.hover-font-6:hover{font-size: 6px;}
+.hover-font-7:hover{font-size: 7px;}
+.hover-font-8:hover{font-size: 8px;}
+.hover-font-9:hover{font-size: 9px;}
+.hover-font-10:hover{font-size: 10px;}
+.hover-font-11:hover{font-size: 11px;}
+.hover-font-12:hover{font-size: 12px;}
+.hover-font-13:hover{font-size: 13px;}
+.hover-font-14:hover{font-size: 14px;}
+.hover-font-15:hover{font-size: 15px;}
+.hover-font-16:hover{font-size: 16px;}
+.hover-font-17:hover{font-size: 17px;}
+.hover-font-18:hover{font-size: 18px;}
+.hover-font-19:hover{font-size: 19px;}
+.hover-font-20:hover{font-size: 20px;}
+.hover-font-21:hover{font-size: 21px;}
+.hover-font-22:hover{font-size: 22px;}
+.hover-font-23:hover{font-size: 23px;}
+.hover-font-24:hover{font-size: 24px;}
+.hover-font-25:hover{font-size: 25px;}
+.hover-font-26:hover{font-size: 26px;}
+.hover-font-27:hover{font-size: 27px;}
+.hover-font-28:hover{font-size: 28px;}
+.hover-font-29:hover{font-size: 29px;}
+.hover-font-30:hover{font-size: 30px;}
+.hover-font-31:hover{font-size: 31px;}
+.hover-font-32:hover{font-size: 32px;}
+.hover-font-33:hover{font-size: 33px;}
+.hover-font-34:hover{font-size: 34px;}
+.hover-font-35:hover{font-size: 35px;}
+.hover-font-36:hover{font-size: 36px;}
+.hover-font-37:hover{font-size: 37px;}
+.hover-font-38:hover{font-size: 38px;}
+.hover-font-39:hover{font-size: 39px;}
+.hover-font-40:hover{font-size: 40px;}
+.hover-font-41:hover{font-size: 41px;}
+.hover-font-42:hover{font-size: 42px;}
+.hover-font-43:hover{font-size: 43px;}
+.hover-font-44:hover{font-size: 44px;}
+.hover-font-45:hover{font-size: 45px;}
+.hover-font-46:hover{font-size: 46px;}
+.hover-font-47:hover{font-size: 47px;}
+.hover-font-48:hover{font-size: 48px;}
+.hover-font-49:hover{font-size: 49px;}
+.hover-font-50:hover{font-size: 50px;}
+.hover-font-51:hover{font-size: 51px;}
+.hover-font-52:hover{font-size: 52px;}
+.hover-font-53:hover{font-size: 53px;}
+.hover-font-54:hover{font-size: 54px;}
+.hover-font-55:hover{font-size: 55px;}
+.hover-font-56:hover{font-size: 56px;}
+.hover-font-57:hover{font-size: 57px;}
+.hover-font-58:hover{font-size: 58px;}
+.hover-font-59:hover{font-size: 59px;}
+.hover-font-60:hover{font-size: 60px;}
+.hover-font-61:hover{font-size: 61px;}
+.hover-font-62:hover{font-size: 62px;}
+.hover-font-63:hover{font-size: 63px;}
+.hover-font-64:hover{font-size: 64px;}
+.hover-font-65:hover{font-size: 65px;}
+.hover-font-66:hover{font-size: 66px;}
+.hover-font-67:hover{font-size: 67px;}
+.hover-font-68:hover{font-size: 68px;}
+.hover-font-69:hover{font-size: 69px;}
+.hover-font-70:hover{font-size: 70px;}
+.hover-font-71:hover{font-size: 71px;}
+.hover-font-72:hover{font-size: 72px;}
+.hover-font-73:hover{font-size: 73px;}
+.hover-font-74:hover{font-size: 74px;}
+.hover-font-75:hover{font-size: 75px;}
+.hover-font-76:hover{font-size: 76px;}
+.hover-font-77:hover{font-size: 77px;}
+.hover-font-78:hover{font-size: 78px;}
+.hover-font-79:hover{font-size: 79px;}
+.hover-font-80:hover{font-size: 80px;}
+.hover-font-81:hover{font-size: 81px;}
+.hover-font-82:hover{font-size: 82px;}
+.hover-font-83:hover{font-size: 83px;}
+.hover-font-84:hover{font-size: 84px;}
+.hover-font-85:hover{font-size: 85px;}
+.hover-font-86:hover{font-size: 86px;}
+.hover-font-87:hover{font-size: 87px;}
+.hover-font-88:hover{font-size: 88px;}
+.hover-font-89:hover{font-size: 89px;}
+.hover-font-90:hover{font-size: 90px;}
+.hover-font-91:hover{font-size: 91px;}
+.hover-font-92:hover{font-size: 92px;}
+.hover-font-93:hover{font-size: 93px;}
+.hover-font-94:hover{font-size: 94px;}
+.hover-font-95:hover{font-size: 95px;}
+.hover-font-96:hover{font-size: 96px;}
+.hover-font-97:hover{font-size: 97px;}
+.hover-font-98:hover{font-size: 98px;}
+.hover-font-99:hover{font-size: 99px;}
+.hover-font-100:hover{font-size: 100px;}
+/*HOVER FONT END*/
