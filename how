@@ -1,7 +1,7 @@
 How to use Nova.css? (•◡•)/
 
 (ɔ◔‿◔)ɔ ♥   <head>
-                <link rel="stylesheet" href="nova.css">
+                <link rel="stylesheet" href="nova-min.css">
               </head>
               <body>
                 ...
