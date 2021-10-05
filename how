@@ -121,5 +121,6 @@ background-size
 background-position
 wrap
 column
+transform
 --------------------------------
 Please review nova.css for more information. (>‿◠)
