@@ -1,0 +1,125 @@
+How to use Nova.css? (•◡•)/
+
+(ɔ◔‿◔)ɔ ♥   <head>
+                <link rel="stylesheet" href="nova.css">
+              </head>
+              <body>
+                ...
+                <script src="nova.js"></script>
+              </body>
+
+--------------------------------------------
+class="w-10"  =>  width:10px;
+class="w-full"  =>  width:100%;
+class="w-100-vw"  =>  width:100vw;
+class="max-w-100"  =>  max-width:100px;
+class="min-w-half"  =>  min-width:50%;
+.
+.
+.
+--------------------------------------------
+class="h-10"  =>  height:10px;
+class="h-full"  =>  height:100%;
+class="h-100-vh"  =>  height:100vh;
+class="max-h-100"  =>  max-height:100px;
+class="min-h-half"  =>  min-height:50%;
+.
+.
+.
+--------------------------------------------
+class="p-10"  =>  padding:10px;
+class="p-top-20"  =>  padding-top:20px;
+class="p-right-35"  =>  padding-right:35px;
+.
+.
+.
+--------------------------------------------
+class="m-10"  =>  margin:10px;
+class="m-top-20"  =>  margin-top:20px;
+class="m-auto"  =>  margin:auto;
+class="m-100-auto"  =>  margin:100px auto;
+.
+.
+.
+--------------------------------------------
+class="red"  =>  color:red;
+class="bg-green"  =>  background-color:green;
+data-bgColor="#ececec"  =>  background-color:#ececec;
+data-bgImg="foto.png"  =>  background-image:url("foto.png");
+.
+.
+.
+--------------------------------------------
+class="flex"  =>  display:flex;
+class="block"  =>  display:block;
+class="inline"  =>  display:inline;
+.
+.
+.
+--------------------------------------------
+class="relative"  =>  position:relative;
+class="absolute"  =>  position:absolute;
+class="fixed"  =>  position:fixed;
+.
+.
+.
+--------------------------------------------
+class="sc750-column"  =>  @media screen and (max-width: 750px){flex-direction:column;}
+class="sc750-text-center"  =>  @media screen and (max-width: 750px){text-align:center;}
+class="sc750-max-w-full"  =>  @media screen and (max-width: 750px){max-width:100%;}
+.
+.
+.
+--------------------------------------------
+class="repeat-no"  =>  background-repeat:no-repeat;
+class="bg-full"  =>  background-size:100%;
+class="bg-center"  =>  background-position:center;
+class="bg-x-top"  =>  background-position-x:top;
+.
+.
+.
+--------------------------------------------
+border
+opacity
+transition
+hover
+background-color
+background-image
+width
+max-width
+min-width
+height
+max-height
+min-height
+padding
+margin
+responsive
+color
+display
+justify
+align
+text
+float
+radius
+top
+left
+bottom
+right
+visibility
+overflow
+position
+font
+text-decoration
+cursor
+outline
+z-index
+focus
+inset
+appearance
+repeat
+background-size
+background-position
+wrap
+column
+--------------------------------
+Please review nova.css for more information. (>‿◠)
