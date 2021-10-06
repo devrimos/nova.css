@@ -109,6 +109,8 @@ visibility
 overflow
 position
 font
+font size
+font weight
 text-decoration
 cursor
 outline
