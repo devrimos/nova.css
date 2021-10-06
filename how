@@ -46,6 +46,8 @@ class="red"  =>  color:red;
 class="bg-green"  =>  background-color:green;
 data-bgColor="#ececec"  =>  background-color:#ececec;
 data-bgImg="foto.png"  =>  background-image:url("foto.png");
+data-color="#313131"  =>  color:#313131;
+data-bColor="#efefef"  =>  border-color:#efefef;
 .
 .
 .
