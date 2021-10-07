@@ -1,11 +1,11 @@
 How to use Nova.css? (•◡•)/
 
-(ɔ◔‿◔)ɔ ♥   <head>
-                <link rel="stylesheet" href="nova-min.css">
+(ɔ◔‿◔)ɔ       <head>
+                 <link rel="stylesheet" href="nova-min.css">
               </head>
               <body>
                 ...
-                <script src="nova.js"></script>
+                 <script src="nova.js"></script>
               </body>
 
 --------------------------------------------
@@ -44,10 +44,6 @@ class="m-100-auto"  =>  margin:100px auto;
 --------------------------------------------
 class="red"  =>  color:red;
 class="bg-green"  =>  background-color:green;
-data-bgColor="#ececec"  =>  background-color:#ececec;
-data-bgImg="foto.png"  =>  background-image:url("foto.png");
-data-color="#313131"  =>  color:#313131;
-data-bColor="#efefef"  =>  border-color:#efefef;
 .
 .
 .
@@ -77,6 +73,17 @@ class="repeat-no"  =>  background-repeat:no-repeat;
 class="bg-full"  =>  background-size:100%;
 class="bg-center"  =>  background-position:center;
 class="bg-x-top"  =>  background-position-x:top;
+.
+.
+.
+--------------------------------------------
+data-bgColor="#ececec"  =>  background-color:#ececec;
+data-bgImg="foto.png"  =>  background-image:url("foto.png");
+data-color="#313131"  =>  color:#313131;
+data-bColor="#efefef"  =>  border-color:#efefef;
+data-w="31px"  =>  width:31px;
+data-min-h="30vh"  =>  min-height:30vh;
+data-max-w="20vw"  =>  max-width:20vw;
 .
 .
 .
