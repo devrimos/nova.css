@@ -1,0 +1,9 @@
+-Nova Min CSS
+  <head>
+     <link rel="stylesheet" href="https://rawcdn.githack.com/devrimos/nova.css/68b89b61441b7767913d4fc7e908d38729cc06dc/nova-min.css">
+  </head>
+------------------------------------------------------------------------
+-Nova Js
+  </body>
+      <script src="https://rawcdn.githack.com/devrimos/nova.css/68b89b61441b7767913d4fc7e908d38729cc06dc/nova.js"></script>
+  </html>
