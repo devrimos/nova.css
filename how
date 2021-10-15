@@ -88,10 +88,15 @@ data-max-w="20vw"  =>  max-width:20vw;
 .
 .
 --------------------------------------------
-<body class="dark">
-  <div class="w-200 h-200 bg-black dark-bg-white"></div>
-dark-bg-grey
-dark-white
+<button class="dark-btn">DARK MODE</button>  => (click)  =>  <body class="dark">
+<button class="no-dark-btn">LIGHT MODE</button>  => (click)  =>  <body class="">
+
+<body class="dark"> ;
+
+dark-bg-grey  =>  body.dark (this element) background-color:green;
+dark-white  =>  body.dark (this element) color:white;
+dark-none  =>  body.dark (this element) display:none;
+dark-opacity-05  =>  body.dark (this element) opacity:0.5;
 .
 .
 .
