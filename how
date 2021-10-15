@@ -88,6 +88,14 @@ data-max-w="20vw"  =>  max-width:20vw;
 .
 .
 --------------------------------------------
+<body class="dark">
+  <div class="w-200 h-200 bg-black dark-bg-white"></div>
+dark-bg-grey
+dark-white
+.
+.
+.
+--------------------------------------------
 border
 opacity
 transition
@@ -133,5 +141,6 @@ background-position
 wrap
 column
 transform rotate
+dark mode
 --------------------------------
 Please review nova.css for more information. (>‿◠)
