@@ -88,15 +88,24 @@ data-max-w="20vw"  =>  max-width:20vw;
 .
 .
 --------------------------------------------
-<button class="dark-btn">DARK MODE</button>  => (click)  =>  <body class="dark">
-<button class="no-dark-btn">LIGHT MODE</button>  => (click)  =>  <body class="">
+<button class="dark-btn">DARK MODE</button>  => (click)  =>  <html class="dark">
+<button class="no-dark-btn">LIGHT MODE</button>  => (click)  =>  <html class="">
 
-<body class="dark"> ;
+<html class="dark"> ;
 
-dark-bg-grey  =>  body.dark (this element) background-color:green;
-dark-white  =>  body.dark (this element) color:white;
-dark-none  =>  body.dark (this element) display:none;
-dark-opacity-05  =>  body.dark (this element) opacity:0.5;
+dark-bg-grey  =>  html.dark (this element) background-color:green;
+dark-white  =>  html.dark (this element) color:white;
+dark-none  =>  html.dark (this element) display:none;
+dark-opacity-05  =>  html.dark (this element) opacity:0.5;
+.
+.
+.
+--------------------------------------------
+<html class="dark"> ;
+
+dark-hover-bg-red  => html.dark (this element):hover{background-color:red;}
+dark-hover-green  => html.dark (this element):hover{color:red;}
+dark-focus-b-color-purple  => html.dark (this element):focus{border-color:purple;}
 .
 .
 .
