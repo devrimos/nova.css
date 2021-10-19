@@ -8,5 +8,5 @@ var maxWidth=document.querySelectorAll("[data-max-w]");maxWidth.forEach(element=
 var height=document.querySelectorAll("[data-h]");height.forEach(element=>{element.style.height=element.getAttribute("data-h");})
 var minHeight=document.querySelectorAll("[data-min-h]");minHeight.forEach(element=>{element.style.minHeight=element.getAttribute("data-min-h");})
 var maxHeight=document.querySelectorAll("[data-max-h]");maxHeight.forEach(element=>{element.style.maxHeight=element.getAttribute("data-max-h");})
-document.querySelector(".dark-btn").onclick=function(){var dark=document.querySelector("body");dark.classList.add("dark");}
-document.querySelector(".no-dark-btn").onclick=function(){var noDark=document.querySelector("body");noDark.classList.remove("dark");}
+document.querySelector(".dark-btn").onclick=function(){var dark=document.querySelector("html");dark.classList.add("dark");}
+document.querySelector(".no-dark-btn").onclick=function(){var noDark=document.querySelector("html");noDark.classList.remove("dark");}
